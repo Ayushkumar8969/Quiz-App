@@ -29,6 +29,12 @@ const questionsList = [
       options: ["1912", "1918", "1922", "1905"],
       answer: "1912",
     },
+    {
+      id: 6,
+      question: "Who won the T20 world cup 2024?",
+      options: ["India", "England", "South Africa", "Afghanistan"],
+      answer: "India",
+    },
   ];
   
   let currentQuestionindex = 0;
